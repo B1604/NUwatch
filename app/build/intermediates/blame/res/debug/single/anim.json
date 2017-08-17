@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\B\\.android\\build-cache\\f8120db60cb3c387dccf77d99cc8d9ed3bdd7abb\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

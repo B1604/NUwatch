@@ -1,0 +1,4 @@
+#Sat Jun 03 15:01:15 CDT 2017
+base.0=C\:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\B\\Dropbox\\Stress_work_Extension\\NUWatch-Android-20170602T020700Z-001\\NUWatch-Android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
